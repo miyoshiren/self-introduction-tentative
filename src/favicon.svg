@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="883" height="883" viewBox="0 0 883 883">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#222"/>
+      <stop offset="0" stop-color="#000426"/>
+      <stop offset="1" stop-color="#212937"/>
+    </linearGradient>
+  </defs>
+  <g id="グループ_340" data-name="グループ 340" transform="translate(-10207 101)">
+    <g id="長方形_483" data-name="長方形 483" transform="translate(10207 -101)" stroke="#fff5cb" stroke-width="1" fill="url(#linear-gradient)">
+      <rect width="883" height="883" stroke="none"/>
+      <rect x="0.5" y="0.5" width="882" height="882" fill="none"/>
+    </g>
+    <g id="長方形_484" data-name="長方形 484" transform="translate(10648.5 128.368) rotate(45)" fill="#1b6f93" stroke="#fff5cb" stroke-width="1">
+      <rect width="300" height="300" stroke="none"/>
+      <rect x="0.5" y="0.5" width="299" height="299" fill="none"/>
+    </g>
+  </g>
+</svg>
